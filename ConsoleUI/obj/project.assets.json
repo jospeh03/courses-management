@@ -1,10 +1,10 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
+    "net6.0": {
       "IUST/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
           "bin/placeholder/IUST.dll": {}
         },
@@ -22,7 +22,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net8.0": [
+    "net6.0": [
       "IUST >= 1.0.0"
     ]
   },
@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Madwar\\Desktop\\courses-management\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "c:\\Users\\Madwar\\Desktop\\courses-management\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\Madwar\\Desktop\\courses-management\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "c:\\Users\\Madwar\\Desktop\\courses-management\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\Madwar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Madwar\\Desktop\\courses-management\\ConsoleUI\\obj\\",
+      "outputPath": "c:\\Users\\Madwar\\Desktop\\courses-management\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,7 +48,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -56,11 +56,11 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Madwar\\Desktop\\courses-management\\IUST\\IUST.csproj": {
-              "projectPath": "C:\\Users\\Madwar\\Desktop\\courses-management\\IUST\\IUST.csproj"
+            "c:\\Users\\Madwar\\Desktop\\courses-management\\IUST\\IUST.csproj": {
+              "projectPath": "c:\\Users\\Madwar\\Desktop\\courses-management\\IUST\\IUST.csproj"
             }
           }
         }
@@ -75,8 +75,8 @@
       }
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
