@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Madwar\\Desktop\\courses-management\\IUST\\IUST.csproj": {}
+    "C:\\Users\\Madwar\\Desktop\\courses-management\\IUST\\IUST.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Madwar\\Desktop\\courses-management\\IUST\\IUST.csproj": {
+    "C:\\Users\\Madwar\\Desktop\\courses-management\\IUST\\IUST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Madwar\\Desktop\\courses-management\\IUST\\IUST.csproj",
+        "projectUniqueName": "C:\\Users\\Madwar\\Desktop\\courses-management\\IUST\\IUST.csproj",
         "projectName": "IUST",
-        "projectPath": "c:\\Users\\Madwar\\Desktop\\courses-management\\IUST\\IUST.csproj",
+        "projectPath": "C:\\Users\\Madwar\\Desktop\\courses-management\\IUST\\IUST.csproj",
         "packagesPath": "C:\\Users\\Madwar\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Madwar\\Desktop\\courses-management\\IUST\\obj\\",
+        "outputPath": "C:\\Users\\Madwar\\Desktop\\courses-management\\IUST\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

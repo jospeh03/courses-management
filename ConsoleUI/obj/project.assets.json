@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Madwar\\Desktop\\courses-management\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\Madwar\\Desktop\\courses-management\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "c:\\Users\\Madwar\\Desktop\\courses-management\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "C:\\Users\\Madwar\\Desktop\\courses-management\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\Madwar\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Madwar\\Desktop\\courses-management\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\Users\\Madwar\\Desktop\\courses-management\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,8 +59,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Users\\Madwar\\Desktop\\courses-management\\IUST\\IUST.csproj": {
-              "projectPath": "c:\\Users\\Madwar\\Desktop\\courses-management\\IUST\\IUST.csproj"
+            "C:\\Users\\Madwar\\Desktop\\courses-management\\IUST\\IUST.csproj": {
+              "projectPath": "C:\\Users\\Madwar\\Desktop\\courses-management\\IUST\\IUST.csproj"
             }
           }
         }
