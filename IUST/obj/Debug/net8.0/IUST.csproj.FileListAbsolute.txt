@@ -1,0 +1,12 @@
+c:\Users\Madwar\Desktop\courses-management\IUST\bin\Debug\net8.0\IUST.deps.json
+c:\Users\Madwar\Desktop\courses-management\IUST\bin\Debug\net8.0\IUST.dll
+c:\Users\Madwar\Desktop\courses-management\IUST\bin\Debug\net8.0\IUST.pdb
+c:\Users\Madwar\Desktop\courses-management\IUST\obj\Debug\net8.0\IUST.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Madwar\Desktop\courses-management\IUST\obj\Debug\net8.0\IUST.AssemblyInfoInputs.cache
+c:\Users\Madwar\Desktop\courses-management\IUST\obj\Debug\net8.0\IUST.AssemblyInfo.cs
+c:\Users\Madwar\Desktop\courses-management\IUST\obj\Debug\net8.0\IUST.csproj.CoreCompileInputs.cache
+c:\Users\Madwar\Desktop\courses-management\IUST\obj\Debug\net8.0\IUST.sourcelink.json
+c:\Users\Madwar\Desktop\courses-management\IUST\obj\Debug\net8.0\IUST.dll
+c:\Users\Madwar\Desktop\courses-management\IUST\obj\Debug\net8.0\refint\IUST.dll
+c:\Users\Madwar\Desktop\courses-management\IUST\obj\Debug\net8.0\IUST.pdb
+c:\Users\Madwar\Desktop\courses-management\IUST\obj\Debug\net8.0\ref\IUST.dll

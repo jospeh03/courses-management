@@ -1,0 +1,41 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "UI (Frontend)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "buildUI",
+            "program": "${workspaceFolder}/ConsoleUI/bin/Debug/net8.0/ConsoleUI.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/ConsoleUI",
+            "stopAtEntry": false,            
+            "env": {
+              "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+          },
+          {
+            "name": "Rebuild Library (Backend)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "buildLib",
+            "program": "${workspaceFolder}/IUST/bin/Debug/net8.0/IUST.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/IUST",
+            "stopAtEntry": false,           
+            "env": {
+              "ASPNETCORE_ENVIRONMENT": "Development"
+            }            
+          }
+    ],
+    "compounds": [
+        {
+          "name": "Frontend & Backend",
+          "configurations": [
+            "UI (Frontend)",
+            "Rebuild Library (Backend)"
+          ],
+          "stopAll": true
+        }
+      ]
+}
