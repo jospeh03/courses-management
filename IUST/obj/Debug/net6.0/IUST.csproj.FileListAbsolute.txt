@@ -1,0 +1,12 @@
+C:\Users\Dell\OneDrive\سطح المكتب\courses-management\IUST\obj\Debug\net6.0\IUST.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\سطح المكتب\courses-management\IUST\obj\Debug\net6.0\IUST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\سطح المكتب\courses-management\IUST\obj\Debug\net6.0\IUST.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\سطح المكتب\courses-management\IUST\obj\Debug\net6.0\IUST.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\سطح المكتب\courses-management\IUST\obj\Debug\net6.0\IUST.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\سطح المكتب\courses-management\IUST\obj\Debug\net6.0\IUST.dll
+C:\Users\Dell\OneDrive\سطح المكتب\courses-management\IUST\obj\Debug\net6.0\IUST.pdb
+C:\Users\Dell\OneDrive\سطح المكتب\courses-management\IUST\bin\Debug\net6.0\IUST.deps.json
+C:\Users\Dell\OneDrive\سطح المكتب\courses-management\IUST\bin\Debug\net6.0\IUST.dll
+C:\Users\Dell\OneDrive\سطح المكتب\courses-management\IUST\bin\Debug\net6.0\IUST.pdb
+C:\Users\Dell\OneDrive\سطح المكتب\courses-management\IUST\obj\Debug\net6.0\refint\IUST.dll
+C:\Users\Dell\OneDrive\سطح المكتب\courses-management\IUST\obj\Debug\net6.0\ref\IUST.dll

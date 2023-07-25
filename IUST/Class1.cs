@@ -1,9 +1,9 @@
 ﻿namespace IUST;
 
-public static class Class1
+public class Class1
 {
     public static void Greeting()
     {
-        Console.WriteLine("Hello World");
+        Console.WriteLine("Hello from Maher");
     }
 }
