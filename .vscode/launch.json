@@ -9,6 +9,7 @@
             "program": "${workspaceFolder}/ConsoleUI/bin/Debug/net6.0/ConsoleUI.dll",
             "args": [],
             "cwd": "${workspaceFolder}/ConsoleUI",
+            "justMyCode": false,
             "stopAtEntry": false,            
             "env": {
               "ASPNETCORE_ENVIRONMENT": "Development"
@@ -22,6 +23,7 @@
             "program": "${workspaceFolder}/IUST/bin/Debug/net6.0/IUST.dll",
             "args": [],
             "cwd": "${workspaceFolder}/IUST",
+            "justMyCode": false,
             "stopAtEntry": false,           
             "env": {
               "ASPNETCORE_ENVIRONMENT": "Development"

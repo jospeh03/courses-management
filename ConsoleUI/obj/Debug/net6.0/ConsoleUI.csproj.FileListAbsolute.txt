@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Dell\OneDrive\سطح المكتب\courses-management\ConsoleUI\bin\Debug\net6.0\ConsoleUI.exe
 C:\Users\Dell\OneDrive\سطح المكتب\courses-management\ConsoleUI\bin\Debug\net6.0\ConsoleUI.deps.json
 C:\Users\Dell\OneDrive\سطح المكتب\courses-management\ConsoleUI\bin\Debug\net6.0\ConsoleUI.runtimeconfig.json
@@ -16,3 +17,24 @@ C:\Users\Dell\OneDrive\سطح المكتب\courses-management\ConsoleUI\obj\Debu
 C:\Users\Dell\OneDrive\سطح المكتب\courses-management\ConsoleUI\obj\Debug\net6.0\ConsoleUI.pdb
 C:\Users\Dell\OneDrive\سطح المكتب\courses-management\ConsoleUI\obj\Debug\net6.0\ConsoleUI.genruntimeconfig.cache
 C:\Users\Dell\OneDrive\سطح المكتب\courses-management\ConsoleUI\obj\Debug\net6.0\ref\ConsoleUI.dll
+=======
+C:\Users\Madwar\Desktop\courses-management\ConsoleUI\bin\Debug\net6.0\ConsoleUI.exe
+C:\Users\Madwar\Desktop\courses-management\ConsoleUI\bin\Debug\net6.0\ConsoleUI.deps.json
+C:\Users\Madwar\Desktop\courses-management\ConsoleUI\bin\Debug\net6.0\ConsoleUI.runtimeconfig.json
+C:\Users\Madwar\Desktop\courses-management\ConsoleUI\bin\Debug\net6.0\ConsoleUI.dll
+C:\Users\Madwar\Desktop\courses-management\ConsoleUI\bin\Debug\net6.0\ConsoleUI.pdb
+C:\Users\Madwar\Desktop\courses-management\ConsoleUI\bin\Debug\net6.0\IUST.dll
+C:\Users\Madwar\Desktop\courses-management\ConsoleUI\bin\Debug\net6.0\IUST.pdb
+C:\Users\Madwar\Desktop\courses-management\ConsoleUI\obj\Debug\net6.0\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\Madwar\Desktop\courses-management\ConsoleUI\obj\Debug\net6.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madwar\Desktop\courses-management\ConsoleUI\obj\Debug\net6.0\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\Madwar\Desktop\courses-management\ConsoleUI\obj\Debug\net6.0\ConsoleUI.AssemblyInfo.cs
+C:\Users\Madwar\Desktop\courses-management\ConsoleUI\obj\Debug\net6.0\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Madwar\Desktop\courses-management\ConsoleUI\obj\Debug\net6.0\ConsoleUI.sourcelink.json
+C:\Users\Madwar\Desktop\courses-management\ConsoleUI\obj\Debug\net6.0\ConsoleUI.csproj.CopyComplete
+C:\Users\Madwar\Desktop\courses-management\ConsoleUI\obj\Debug\net6.0\ConsoleUI.dll
+C:\Users\Madwar\Desktop\courses-management\ConsoleUI\obj\Debug\net6.0\refint\ConsoleUI.dll
+C:\Users\Madwar\Desktop\courses-management\ConsoleUI\obj\Debug\net6.0\ConsoleUI.pdb
+C:\Users\Madwar\Desktop\courses-management\ConsoleUI\obj\Debug\net6.0\ConsoleUI.genruntimeconfig.cache
+C:\Users\Madwar\Desktop\courses-management\ConsoleUI\obj\Debug\net6.0\ref\ConsoleUI.dll
+>>>>>>> 0ceea77540b6f9b40371bd213a38d317ac81f9dd

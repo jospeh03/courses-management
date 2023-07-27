@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Dell\OneDrive\سطح المكتب\courses-management\IUST\obj\Debug\net6.0\IUST.csproj.AssemblyReference.cache
 C:\Users\Dell\OneDrive\سطح المكتب\courses-management\IUST\obj\Debug\net6.0\IUST.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Dell\OneDrive\سطح المكتب\courses-management\IUST\obj\Debug\net6.0\IUST.AssemblyInfoInputs.cache
@@ -10,3 +11,17 @@ C:\Users\Dell\OneDrive\سطح المكتب\courses-management\IUST\bin\Debug\net
 C:\Users\Dell\OneDrive\سطح المكتب\courses-management\IUST\bin\Debug\net6.0\IUST.pdb
 C:\Users\Dell\OneDrive\سطح المكتب\courses-management\IUST\obj\Debug\net6.0\refint\IUST.dll
 C:\Users\Dell\OneDrive\سطح المكتب\courses-management\IUST\obj\Debug\net6.0\ref\IUST.dll
+=======
+C:\Users\Madwar\Desktop\courses-management\IUST\obj\Debug\net6.0\IUST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madwar\Desktop\courses-management\IUST\obj\Debug\net6.0\IUST.AssemblyInfoInputs.cache
+C:\Users\Madwar\Desktop\courses-management\IUST\obj\Debug\net6.0\IUST.AssemblyInfo.cs
+C:\Users\Madwar\Desktop\courses-management\IUST\obj\Debug\net6.0\IUST.csproj.CoreCompileInputs.cache
+C:\Users\Madwar\Desktop\courses-management\IUST\obj\Debug\net6.0\IUST.sourcelink.json
+C:\Users\Madwar\Desktop\courses-management\IUST\obj\Debug\net6.0\IUST.dll
+C:\Users\Madwar\Desktop\courses-management\IUST\obj\Debug\net6.0\refint\IUST.dll
+C:\Users\Madwar\Desktop\courses-management\IUST\obj\Debug\net6.0\IUST.pdb
+C:\Users\Madwar\Desktop\courses-management\IUST\bin\Debug\net6.0\IUST.deps.json
+C:\Users\Madwar\Desktop\courses-management\IUST\bin\Debug\net6.0\IUST.dll
+C:\Users\Madwar\Desktop\courses-management\IUST\bin\Debug\net6.0\IUST.pdb
+C:\Users\Madwar\Desktop\courses-management\IUST\obj\Debug\net6.0\ref\IUST.dll
+>>>>>>> 0ceea77540b6f9b40371bd213a38d317ac81f9dd
